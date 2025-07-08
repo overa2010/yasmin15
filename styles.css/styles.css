@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      
+    </head>
+    <body>
+        <p id="stylish">Olga 07/04/2010</a>
+    </body>
+</html>
+
+#stylish {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+    color: pink;
+    background: purple;
+}
